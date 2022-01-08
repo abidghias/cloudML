@@ -1,7 +1,14 @@
 # Problem statement
 This project is designed to create an ML platform to automate the entire process. This begins
 from data retrieval from either of the 3 cloud platforms like AWS, Azure and GCP.
-
+We can create custom projects to schedule the data consumption. Therefore the files
+accessed are directly from the cloud with
+little or no manual processes involved. We have designed it in such a way that when a project
+is created for a requirement we can schedule jobs for training
+at specific time frames by providing the necessary inputs The incoming data from the client is
+put through validation techniques like file name validation,
+data validation (column name,file format,number of missing columns) and the individual is
+notified via mail when there is noticeable event that occurs.
 
 
 # PythonCloudLibrary
