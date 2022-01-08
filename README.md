@@ -1,3 +1,9 @@
+# Problem statement
+This project is designed to create an ML platform to automate the entire process. This begins
+from data retrieval from either of the 3 cloud platforms like AWS, Azure and GCP.
+
+
+
 # PythonCloudLibrary
 CloudLibrary
 
@@ -30,24 +36,4 @@ pip freeze>requirements.txt
 ```
 python project_library_layer\initializer\setup_configuration.py
 ```
-
-
-Class recordings: MLDL 7th Dec (08:00 PM)
-```
-https://drive.google.com/file/d/1yqvaGccQyU1ZBFS_0FjFscP-ZeJs_xxB/view?usp=sharing
-```
-
-Class recordings: MLDL 8th Dec (08:00 PM)
-```
-https://drive.google.com/file/d/1E6LUxT0W3w2y1RMvE_B_xumpkPUn-n8N/view?usp=sharing
-```
-
-Class recordings: MLDL 9th Dec (08:00 PM)
-```
-https://drive.google.com/file/d/1wIJezU_LPtVa-6aQXih0ObQ_I-naW8rC/view?usp=sharing
-```
-
-Class recordings: MLDL 10th Dec (08:00 PM)
-```
-https://drive.google.com/file/d/1W9gBthDYu5LJeYMtwrgDOGqm3w65RTBn/view?usp=sharing
-```
+![image](https://user-images.githubusercontent.com/52704446/148636634-f0bd537b-b86d-4db3-99c7-736bb8c4ce2e.png)
